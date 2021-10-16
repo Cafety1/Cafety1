@@ -22,6 +22,6 @@
   
 ##
 
-- 🔭 Eu Trabalgo com tecnico de Ti
+- 🔭 Eu Trabalho com tecnico de Ti
 - 🌱 Estou Aprendendo Full Stack
 - 😄 Pronouns: ele/dele
