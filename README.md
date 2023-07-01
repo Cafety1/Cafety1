@@ -22,6 +22,6 @@
   
 ##
 
-- 🔭 Eu Trabalho com tecnico de Ti
-- 🌱 Estou Aprendendo Full Stack
+- 🔭 Eu Trabalho como Desenvolver Front-End(e Back-End e BD) na Empresa Anima Educação
+- 🌱 Estou estudando para ser um Full Stack
 - 😄 Pronouns: ele/dele
