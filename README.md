@@ -22,6 +22,6 @@
   
 ##
 
-- 🔭 Eu Trabalho como Desenvolver Front-End(e Back-End e BD) na Empresa Anima Educação
+- 🔭 Eu Trabalho como Desenvolvedor Front-End(e Back-End e BD) na Empresa Anima Educação
 - 🌱 Estou estudando para ser um Full Stack
 - 😄 Pronouns: ele/dele
